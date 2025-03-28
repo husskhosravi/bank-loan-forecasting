@@ -10,7 +10,7 @@ This repository presents a comprehensive analysis of loan application data and s
 
 Our journey begins with exploring loan application volumes from September 2012 to August 2014:
 
-![image](https://github.com/user-attachments/assets/07d1ec86-9240-49b4-97c7-0e116c7aa709)
+![Monthly application volumes](https://github.com/user-attachments/assets/1f89ca9d-e65d-4d01-835b-c2bf9260020f)
 
 - **Mid-year peaks**: May-July consistently show highest volumes, with July 2014 reaching 7,318 applications
 - **Holiday dips**: December-January show lowest volumes (~4,700 applications), correlating with holiday periods
@@ -22,9 +22,9 @@ This historical analysis immediately suggests opportunities for resource allocat
 
 ### Chapter 2: Geographical Insights 🗺️
 
-![image](https://github.com/user-attachments/assets/517dd6dc-616e-4684-9e47-ac8b279365cf)
+![loan by state](https://github.com/user-attachments/assets/599ff57d-b0da-419b-a2b4-974dcd0d363f)
 
-![image](https://github.com/user-attachments/assets/df7fcbd1-e442-4e53-a129-dae0651f6d26)
+![loan by state-pie chart](https://github.com/user-attachments/assets/77d6b4f8-9752-4707-a830-43ea2e0954e4)
 
 The geographical distribution reveals significant concentration:
 
@@ -35,9 +35,9 @@ These geographical patterns suggest focusing resources on east coast operations 
 
 ### Chapter 3: Understanding Loan Size Distribution 💰
 
-![image](https://github.com/user-attachments/assets/492480db-25ce-4997-8dd2-cd667e35d589)
+![loan amount distribution](https://github.com/user-attachments/assets/1adc17f0-a390-499b-9810-4b6954df627b)
 
-![image](https://github.com/user-attachments/assets/82e8991b-c7fb-4c36-8069-ca7feb9b9239)
+![loan categories](https://github.com/user-attachments/assets/34abc249-536f-4650-b647-cd5e0893282d)
 
 Our analysis of loan amounts uncovers an interesting skewed distribution:
 
@@ -54,7 +54,7 @@ Our analysis of loan amounts uncovers an interesting skewed distribution:
 
 Using SARIMA (Seasonal Autoregressive Integrated Moving Average) modelling, we forecast the next 12 months:
 
-![image](https://github.com/user-attachments/assets/8b1eb7b0-c523-4f72-991b-60503dbe1ad9)
+![actuals and forecast](https://github.com/user-attachments/assets/6050599b-5281-4f4a-8807-4a7e98c0ad41)
 
 - Total volume reaches 74,407 applications (September 2014 to August 2015)
 - Monthly applications average 6,201 across the forecast period
@@ -67,7 +67,7 @@ Using SARIMA (Seasonal Autoregressive Integrated Moving Average) modelling, we f
 
 Based on our forecast, we developed comprehensive FTE planning recommendations:
 
-![image](https://github.com/user-attachments/assets/5a9fab18-8867-4888-9fc9-90ea400925fb)
+![required FTE](https://github.com/user-attachments/assets/df04d53a-c11b-4a45-bd49-de232576e5e3)
 
 #### Short-term Tactical Actions:
 
