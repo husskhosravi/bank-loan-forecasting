@@ -10,6 +10,7 @@ This repository presents a comprehensive analysis of loan application data and s
 
 Our journey begins with exploring loan application volumes from September 2012 to August 2014:
 
+![Monthly application volumes](https://github.com/user-attachments/assets/f3c19c91-8724-4a88-b8c9-7d8f0ea1e8a8)
 
 
 - **Mid-year peaks**: May-July consistently show highest volumes, with July 2014 reaching 7,318 applications
