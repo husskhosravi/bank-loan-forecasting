@@ -115,7 +115,7 @@ Our recommended approach delivers four key benefits:
 The analysis uses a SARIMA time series forecasting approach, implemented in Python. The repository includes:
 - Data preprocessing scripts
 - Time series decomposition
-- SARIMA parameter optimization
+- SARIMA parameter optimisation
 - Forecast generation
 
 ## Applications 🗃️
