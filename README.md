@@ -25,7 +25,7 @@ This historical analysis immediately suggests opportunities for resource allocat
 
 ![loan by state](https://github.com/user-attachments/assets/7bc98509-aa84-4b7c-b489-169bc9dcc7d0)
 
-![loan by state-pie chart](https://github.com/user-attachments/assets/77d6b4f8-9752-4707-a830-43ea2e0954e4)
+![loan by state-pie chart](https://github.com/user-attachments/assets/3b21b27a-33b0-4ec2-84a5-70153beb4fe1)
 
 The geographical distribution reveals significant concentration:
 
