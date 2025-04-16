@@ -23,7 +23,7 @@ This historical analysis immediately suggests opportunities for resource allocat
 
 ### Chapter 2: Geographical Insights 🗺️
 
-![loan by state](https://github.com/user-attachments/assets/7bc98509-aa84-4b7c-b489-169bc9dcc7d0)
+![loan by state](https://github.com/user-attachments/assets/195c81cc-99a3-4812-b1de-83beb988e5a7)
 
 ![loan by state-pie chart](https://github.com/user-attachments/assets/3b21b27a-33b0-4ec2-84a5-70153beb4fe1)
 
