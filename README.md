@@ -68,7 +68,7 @@ Using SARIMA (Seasonal Autoregressive Integrated Moving Average) modelling, we f
 
 Based on our forecast, we developed comprehensive FTE planning recommendations:
 
-![required FTE](https://github.com/user-attachments/assets/d46c149f-8902-4d04-9935-42178ea0bdf3)
+![required FTE](https://github.com/user-attachments/assets/a0337040-0394-42f8-bede-3a490f725898)
 
 #### Short-term Tactical Actions:
 
